@@ -38,12 +38,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
-## 📊 GitHub Stats
- 
-![P-Taeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Taeyoung&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Taeyoung&layout=compact&theme=radical)
- 
 
 ## 🚀 Projects
  
@@ -96,6 +90,12 @@
 
 ---
 
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 🏅 Awards & Education
 
 | | |
@@ -105,6 +105,8 @@
 | 📚 **제로베이스 백엔드 스쿨** | 2024.10 ~ 2025.04 |
 
 ---
+
+
 
 <p align="left">
   <a href="mailto:pty10510@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
