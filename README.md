@@ -112,7 +112,7 @@
 ---
 
 
-
 <p align="left">
   <a href="mailto:pty10510@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://velog.io/@zipmandu/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 </p>
