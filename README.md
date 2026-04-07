@@ -91,6 +91,7 @@
 ---
 
 ## 📝 Latest Blog Posts
+  <a href="https://velog.io/@zipmandu/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <!-- BLOG-POST-LIST:START -->
 - [디스크 저장 방식](https://velog.io/@zipmandu/%EB%94%94%EC%8A%A4%ED%81%AC-%EC%A0%80%EC%9E%A5-%EB%B0%A9%EC%8B%9D)
 - [Elasticsearch  원리](https://velog.io/@zipmandu/Elasticsearch-%EC%9B%90%EB%A6%AC)
@@ -112,7 +113,6 @@
 ---
 
 
-<p align="left">
-  <a href="mailto:pty10510@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://velog.io/@zipmandu/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-</p>
+
+<a href="mailto:pty10510@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+
