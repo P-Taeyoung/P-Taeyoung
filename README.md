@@ -38,6 +38,13 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
+## 📊 GitHub Stats
+ 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=P-Taeyoung&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Taeyoung&layout=compact&theme=default&hide_border=true&langs_count=6" height="170"/>
+</p>
+ 
 
 ## 🚀 Projects
  
@@ -87,29 +94,6 @@
  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BootTalk-Service/boot-talk-back)
  
----
- 
-
-## 📊 GitHub Stats
- 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=P-Taeyoung&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Taeyoung&layout=compact&theme=default&hide_border=true&langs_count=6" height="170"/>
-</p>
- 
-## 📌 Top Repositories
- 
-<p align="left">
-  <a href="https://github.com/prgrms-be-adv-devcourse/beadv4_4_BugZero_BE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prgrms-be-adv-devcourse&repo=beadv4_4_BugZero_BE&theme=default&hide_border=true" />
-  </a>
-  <a href="https://github.com/P-Taeyoung/coinwash">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-Taeyoung&repo=coinwash&theme=default&hide_border=true" />
-  </a>
-  <a href="https://github.com/BootTalk-Service/boot-talk-back">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BootTalk-Service&repo=boot-talk-back&theme=default&hide_border=true" />
-  </a>
-</p>
 
 ---
 
