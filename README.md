@@ -40,10 +40,9 @@
 ---
 ## 📊 GitHub Stats
  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=P-Taeyoung&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Taeyoung&layout=compact&theme=default&hide_border=true&langs_count=6" height="170"/>
-</p>
+![P-Taeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Taeyoung&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Taeyoung&layout=compact&theme=radical)
  
 
 ## 🚀 Projects
