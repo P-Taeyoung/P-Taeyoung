@@ -93,11 +93,11 @@
 ## 📝 Latest Blog Posts
   <a href="https://velog.io/@zipmandu/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [Elasticsearch 검색 쿼리 DSL](https://velog.io/@zipmandu/Elasticsearch-%EA%B2%80%EC%83%89-%EC%BF%BC%EB%A6%AC-DSL)
 - [디스크 저장 방식](https://velog.io/@zipmandu/%EB%94%94%EC%8A%A4%ED%81%AC-%EC%A0%80%EC%9E%A5-%EB%B0%A9%EC%8B%9D)
 - [Elasticsearch  원리](https://velog.io/@zipmandu/Elasticsearch-%EC%9B%90%EB%A6%AC)
 - [Elasticsearch란 무엇인가](https://velog.io/@zipmandu/Elasticsearch%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 - [RabbitMQ가 라우팅에 정말 유리한가?](https://velog.io/@zipmandu/RabbitMQ%EA%B0%80-%EB%9D%BC%EC%9A%B0%ED%8C%85%EC%97%90-%EC%A0%95%EB%A7%90-%EC%9C%A0%EB%A6%AC%ED%95%9C%EA%B0%80)
-- [RabbitMQ Exchange 라우팅](https://velog.io/@zipmandu/RabbitMQ-Exchange-%EB%9D%BC%EC%9A%B0%ED%8C%85)
 <!-- BLOG-POST-LIST:END -->
 
 ---
