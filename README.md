@@ -93,11 +93,11 @@
 ## 📝 Latest Blog Posts
   <a href="https://velog.io/@zipmandu/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [RDBMS - 트랜잭션 &amp; ACID](https://velog.io/@zipmandu/RDBMS-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-ACID)
 - [관계형 데이터 베이스 - 버퍼 풀](https://velog.io/@zipmandu/%EA%B4%80%EA%B3%84%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%B2%84%ED%8D%BC-%ED%92%80)
 - [관계형 데이터베이스란 무엇인가](https://velog.io/@zipmandu/%EA%B4%80%EA%B3%84%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 - [Nori 형태소 분석기](https://velog.io/@zipmandu/Nori-%ED%98%95%ED%83%9C%EC%86%8C-%EB%B6%84%EC%84%9D%EA%B8%B0)
 - [언제 Elasticsearch를 사용해야 되는가?](https://velog.io/@zipmandu/%EC%96%B8%EC%A0%9C-Elasticsearch%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%EB%90%98%EB%8A%94%EA%B0%80)
-- [Elasticsearch 검색 쿼리 DSL](https://velog.io/@zipmandu/Elasticsearch-%EA%B2%80%EC%83%89-%EC%BF%BC%EB%A6%AC-DSL)
 <!-- BLOG-POST-LIST:END -->
 
 ---
