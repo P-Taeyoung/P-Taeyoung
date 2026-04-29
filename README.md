@@ -93,11 +93,11 @@
 ## 📝 Latest Blog Posts
   <a href="https://velog.io/@zipmandu/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [실행 계획 &amp; 쿼리 최적화](https://velog.io/@zipmandu/%EC%8B%A4%ED%96%89-%EA%B3%84%ED%9A%8D-%EC%BF%BC%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94)
 - [인덱스 구조 &amp; 최적화](https://velog.io/@zipmandu/%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EA%B5%AC%EC%A1%B0-%EC%B5%9C%EC%A0%81%ED%99%94)
 - [MVCC &lpar;Multi-Version Concurrency Control&rpar;](https://velog.io/@zipmandu/MVCC-Multi-Version-Concurrency-Control)
 - [RabbitMQ vs 카프카 — 메시지는 어떻게 수신되는가](https://velog.io/@zipmandu/RabbitMQ-vs-%EC%B9%B4%ED%94%84%EC%B9%B4-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%88%98%EC%8B%A0%EB%90%98%EB%8A%94%EA%B0%80)
 - [Lock &amp; 동시성 제어](https://velog.io/@zipmandu/Lock-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4)
-- [RDBMS - 트랜잭션 &amp; ACID](https://velog.io/@zipmandu/RDBMS-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-ACID)
 <!-- BLOG-POST-LIST:END -->
 
 ---
