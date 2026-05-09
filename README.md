@@ -93,11 +93,11 @@
 ## 📝 Latest Blog Posts
   <a href="https://velog.io/@zipmandu/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [알고리즘 - 주문서에서 N번째 주문 찾기](https://velog.io/@zipmandu/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A3%BC%EB%AC%B8%EC%84%9C%EC%97%90%EC%84%9C-N%EB%B2%88%EC%A7%B8-%EC%A3%BC%EB%AC%B8-%EC%B0%BE%EA%B8%B0)
+- [알고리즘 문제 - 요격시스템](https://velog.io/@zipmandu/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%92%80%EC%9D%B4-%EC%9A%94%EA%B2%A9%EC%8B%9C%EC%8A%A4%ED%85%9C)
 - [파티셔닝 좀 더 알아보기](https://velog.io/@zipmandu/%ED%8C%8C%ED%8B%B0%EC%85%94%EB%8B%9D-%EC%A2%80-%EB%8D%94-%EC%95%8C%EC%95%84%EB%B3%B4%EB%94%94)
 - [파티셔닝 &amp; 샤딩](https://velog.io/@zipmandu/%ED%8C%8C%ED%8B%B0%EC%85%94%EB%8B%9D-%EC%83%A4%EB%94%A9)
 - [복제 &amp; HA 구성](https://velog.io/@zipmandu/%EB%B3%B5%EC%A0%9C-HA-%EA%B5%AC%EC%84%B1)
-- [실행 계획 &amp; 쿼리 최적화](https://velog.io/@zipmandu/%EC%8B%A4%ED%96%89-%EA%B3%84%ED%9A%8D-%EC%BF%BC%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94)
-- [인덱스 구조 &amp; 최적화](https://velog.io/@zipmandu/%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EA%B5%AC%EC%A1%B0-%EC%B5%9C%EC%A0%81%ED%99%94)
 <!-- BLOG-POST-LIST:END -->
 
 ---
