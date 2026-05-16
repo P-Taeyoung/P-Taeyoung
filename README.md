@@ -93,11 +93,11 @@
 ## 📝 Latest Blog Posts
   <a href="https://velog.io/@zipmandu/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [알고리즘 - 이모티콘 할인행사](https://velog.io/@zipmandu/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98-%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC)
+- [알고리즘 - n + 1 카드](https://velog.io/@zipmandu/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-n-1-%EC%B9%B4%EB%93%9C)
 - [알고리즘 - 주사위 고르기](https://velog.io/@zipmandu/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A3%BC%EC%82%AC%EC%9C%84-%EA%B3%A0%EB%A5%B4%EA%B8%B0)
 - [알고리즘 - 수식복원하기](https://velog.io/@zipmandu/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%88%98%EC%8B%9D%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0)
 - [알고리즘 - 주문서에서 N번째 주문 찾기](https://velog.io/@zipmandu/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A3%BC%EB%AC%B8%EC%84%9C%EC%97%90%EC%84%9C-N%EB%B2%88%EC%A7%B8-%EC%A3%BC%EB%AC%B8-%EC%B0%BE%EA%B8%B0)
-- [알고리즘 문제 - 요격시스템](https://velog.io/@zipmandu/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%92%80%EC%9D%B4-%EC%9A%94%EA%B2%A9%EC%8B%9C%EC%8A%A4%ED%85%9C)
-- [파티셔닝 좀 더 알아보기](https://velog.io/@zipmandu/%ED%8C%8C%ED%8B%B0%EC%85%94%EB%8B%9D-%EC%A2%80-%EB%8D%94-%EC%95%8C%EC%95%84%EB%B3%B4%EB%94%94)
 <!-- BLOG-POST-LIST:END -->
 
 ---
